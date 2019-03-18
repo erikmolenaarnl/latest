@@ -2316,6 +2316,8 @@ div.sharedaddy h3.sd-title:before {
   width: auto;
   z-index: 100000;
   /* Above WP toolbar */
+  left:-9999px;
+  /* Fix for IE11 */
 }
 
 /* --------------------------------------------------------------
