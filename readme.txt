@@ -1,18 +1,15 @@
 === Latest WordPress Theme ===
-Contributors: array
-Donate link: https://arraythemes.com/
+Contributors: Array / Erik Molenaar
 Tags: two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, featured-image-header, featured-images, theme-options, custom-background, custom-colors, custom-menu, editor-style, featured-images, translation-ready, e-commerce, blog, footer-widgets, full-width-template
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 2018.09.05
+Stable tag: 2019.03.18
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant blog and striking page templates.
-
 == Description ==
 
-Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant blog and striking page templates.
+Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant blog and striking page templates. This is a fork of https://github.com/ArrayHQ/latest.
 
 == Installation ==
 
@@ -23,17 +20,11 @@ Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant
 6. After WordPress installs the theme, click Activate.
 7. You've successfully installed your new theme! Head to Appearance > Getting Started to begin setting up your theme.
 
-== Frequently Asked Questions ==
-
-= I need help! What should I do? =
-
-Visit arraythemes.com/support to log into your Array dashboard and submit questions via the support form. We're happy to help!
-
-== Screenshots ==
-
-1. The theme home page filled with demo content.
-
 == Change Log ==
+
+= 2019.03.18 =
+* Fix IE11 screen-reader-text.
+* Added GitHub Theme URI (so you can update with https://github.com/afragen/github-updater
 
 = 2018.09.05 = 
 * Fix PHP 7.2 error in header.
