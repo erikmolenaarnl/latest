@@ -24,7 +24,7 @@ Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant
 
 = 2019.03.18 =
 * Fix IE11 screen-reader-text.
-* Added GitHub Theme URI (so you can update with https://github.com/afragen/github-updater
+* Added GitHub Theme URI (so you can update this theme with https://github.com/afragen/github-updater).
 
 = 2018.09.05 = 
 * Fix PHP 7.2 error in header.
