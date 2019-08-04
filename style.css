@@ -1414,9 +1414,6 @@ a:hover, a:focus, a:active {
 .main-navigation ul li:hover {
   border-top-color: #2a3137;
 }
-.main-navigation ul li.current-menu-item {
-  border-top-color: #2a3137;
-}
 .main-navigation ul li a {
   display: inline-block;
   padding: 20px 0;
