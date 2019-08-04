@@ -1430,7 +1430,6 @@ a:hover, a:focus, a:active {
 
 .sub-menu li.current-menu-item {
   border-top-color: transparent !important;
-  background: #fff !important;
 }
 
 .site-header .menu-item-has-children,
