@@ -584,6 +584,10 @@ input[type="checkbox"] {
   -webkit-appearance: checkbox !important;
 }
 
+input[type="radio"] {
+  -webkit-appearance: radio !important;
+}
+
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
