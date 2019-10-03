@@ -3,7 +3,7 @@ Contributors: Array / Erik Molenaar
 Tags: two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, featured-image-header, featured-images, theme-options, custom-background, custom-colors, custom-menu, editor-style, featured-images, translation-ready, e-commerce, blog, footer-widgets, full-width-template
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 2019.03.18
+Stable tag: 2019.10.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ Latest is a beautifully-crafted, simple-to-use WooCommerce theme with an elegant
 7. You've successfully installed your new theme! Head to Appearance > Getting Started to begin setting up your theme.
 
 == Change Log ==
+
+= 2019.10.03 =
+* Fix mobile menu did not honor user setting for search (posts or products).
 
 = 2019.03.18 =
 * Fix IE11 screen-reader-text.
