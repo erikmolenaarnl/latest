@@ -3,7 +3,7 @@ Contributors: Array / Erik Molenaar
 Tags: two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, featured-image-header, featured-images, theme-options, custom-background, custom-colors, custom-menu, editor-style, featured-images, translation-ready, e-commerce, blog, footer-widgets, full-width-template
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 2019.10.3
+Stable tag: 2019.10.03
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
