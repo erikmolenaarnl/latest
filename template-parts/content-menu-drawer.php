@@ -40,7 +40,7 @@ $headline_text = get_theme_mod( 'latest_headline_text' );
 			) );?>
 		</nav><!-- #site-navigation -->
 
-		<?php get_search_form(); ?>
+		<?php do_action( 'latest_header_search_area' ); ?>
 
 		<?php if ( has_nav_menu( 'social' ) ) { ?>
 			<nav class="social-navigation">
