@@ -1356,10 +1356,12 @@ a:hover, a:focus, a:active {
   background: #2a3137;
 }
 
-.drawer .search-form {
+.drawer .search-form,
+.drawer .woocommerce-product-search {
   margin-top: 30px;
 }
-.drawer .search-form:before {
+.drawer .search-form:before,
+.drawer .woocommerce-product-search:before {
   top: 10px;
 }
 
