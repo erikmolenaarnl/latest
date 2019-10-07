@@ -178,7 +178,8 @@ if ( ! function_exists( 'latest_related_products_args' ) ) {
  */
 if ( ! function_exists( 'latest_woocommerce_output_upsells' ) ) {
 	function latest_woocommerce_output_upsells() {
-		woocommerce_upsell_display( 3,1 ); // Display 3 products in rows of 1
+		$product_columns = get_theme_mod( 'latest_woo_columns', '4' );
+		woocommerce_upsell_display( -1, $product_columns );
 	}
 }
 remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_upsell_display', 15 );
